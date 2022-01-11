@@ -1,5 +1,5 @@
 # UAS-SEMESTER1
-##STRUKTUR MODUL
+##STRUKTUR MODUL  <p>
 ![gambar 1](screenshot/ss1.jpeg) <p>
 
 DI BAWAH  INI ISI DARI FILE DAFTAR_NILAI.PY Berikut isi dari file tersebut:
